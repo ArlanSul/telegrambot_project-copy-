@@ -47,6 +47,8 @@ orders table
 | message | TEXT | The initial request message |  
 | status | TEXT | Request status ('Pending', 'Accepted', 'Declined') |
 
+[![Watch the video](https://img.youtube.com/vi/srrZgzR643k/maxresdefault.jpg)](https://youtu.be/srrZgzR643k)
+
 ## **Setup and Installation**
 
 1. **Clone the repository:**  
