@@ -50,8 +50,10 @@ orders table
 ## **Setup and Installation**
 
 1. **Clone the repository:**  
-   ```git clone \[https://github.com/your-username/tutor-bot.git\](https://github.com/your-username/tutor-bot.git)```
-   ```cd tutor-bot```
+   ```
+   git clone \[https://github.com/your-username/tutor-bot.git\](https://github.com/your-username/tutor-bot.git)
+   cd tutor-bot
+   ```
 
 2. **Install dependencies:**  
    ```pip install pyTelegramBotAPI```
