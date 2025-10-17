@@ -50,11 +50,11 @@ orders table
 ## **Setup and Installation**
 
 1. **Clone the repository:**  
-   git clone \[https://github.com/your-username/tutor-bot.git\](https://github.com/your-username/tutor-bot.git)  
-   cd tutor-bot
+   ```git clone \[https://github.com/your-username/tutor-bot.git\](https://github.com/your-username/tutor-bot.git)```
+   ```cd tutor-bot```
 
 2. **Install dependencies:**  
-   pip install pyTelegramBotAPI
+   ```pip install pyTelegramBotAPI```
 
 3. **Get a Telegram Bot Token:**  
    * Talk to the [@BotFather](https://t.me/botfather) on Telegram.  
@@ -62,6 +62,6 @@ orders table
 4. **Configure the bot:**  
    * Open bot.py and replace "YOUR\_TELEGRAM\_BOT\_TOKEN" with the token you received.  
 5. **Run the bot:**  
-   python bot.py
+   ```python bot.py```
 
 The bot will initialize the tutors.db database file on its first run.
